@@ -1,6 +1,6 @@
 # Imersão-Dados-Alura
 
-- **Aula  1º - MINHAA PRIMEIRA ANÁLISE EM DADOS DA EDUCAÇÃO**
+- **Aula  1º - MINHA PRIMEIRA ANÁLISE EM DADOS DA EDUCAÇÃO**
 Nessa aula teremos nosso primeiro contato com Python e o famoso Pandas, vamos utilizar diversas funcionalidades desta biblioteca para explorar dados da educação. Na nossa análise de dados vamos descobrir curiosidades sobre inscritos no ENEM, formular hipóteses e gráficos de distribuição Box-plot para entender melhor alguns aspectos da educação brasileira.
 
 - **Aula  2 - ANÁLISE EXPLORATÓRIA DE DADOS**
